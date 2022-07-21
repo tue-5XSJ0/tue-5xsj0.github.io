@@ -10,4 +10,4 @@
 
  After installing Anaconda simply clone the repository and open "run_notebook.bat". This will automatically create a virtual environment and open jupyter in a new browser tab.
 
- Good luck with your assignment!
+ Good luck with your assignments!
