@@ -1,6 +1,6 @@
-# Automotive Sensing
+# Automotive Sensing & Data Fusion and Semantic Interpretation 
 
-This page contains the course materials and tutorials for 5XSJ0: "Automotive Sensing".
+This page contains the course materials and tutorials for 5XSJ0: "Automotive Sensing" and 5XSK0: "Data Fusion and Semantic Interpretation".
 
 [comment]: <> (For questions/concerns/bug reports about these pages, please submit an issue or pull request directly to our )
 
